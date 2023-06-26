@@ -1,0 +1,3 @@
+/// @description Reset speech
+message = "";
+
