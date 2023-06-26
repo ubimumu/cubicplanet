@@ -4,7 +4,7 @@ Leaked by github.com/ubimumu
 - Cubic Planet Gameplay Video: https://www.youtube.com/watch?v=X9FeyfgBJqE
 - Error or file missing? Open Cubic_Planet.gmz file at Game Maker for full access the all source file.
 
-# Important
+# github.com/ubimumu
 
 ## GameMaker Information
 
