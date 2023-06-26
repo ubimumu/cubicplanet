@@ -1,0 +1,6171 @@
+Converting GML script: ${project_dir}\scripts\walls_save\walls_save.gml
+Converted description /// @description walls_save(y)/// @param y
+
+Converting GML script: ${project_dir}\scripts\walls_load\walls_load.gml
+Converted description /// @description walls_load(y,string)/// @param y
+/// @param string
+
+Converting GML script: ${project_dir}\scripts\blocks_save\blocks_save.gml
+Converted description /// @description blocks_save(y)/// @param y
+
+Converting GML script: ${project_dir}\scripts\blocks_load\blocks_load.gml
+Converted description /// @description blocks_load(y,string)/// @param y
+/// @param string
+
+Converting GML script: ${project_dir}\scripts\planet_create\planet_create.gml
+Converted description /// @description planet_create(name)/// @param name
+
+Converting GML script: ${project_dir}\scripts\planet_enter\planet_enter.gml
+Converted description /// @description planet_enter(name)/// @param name
+
+Converting GML script: ${project_dir}\scripts\planet_leave\planet_leave.gml
+Converted description /// @description planet_leave()
+
+Converting GML script: ${project_dir}\scripts\planet_save\planet_save.gml
+Converted description /// @description planet_save(index)/// @param index
+
+Converting GML script: ${project_dir}\scripts\planet_load\planet_load.gml
+Converted description /// @description planet_load(index)/// @param index
+
+Converting GML script: ${project_dir}\scripts\planet_random\planet_random.gml
+Converted description /// @description planet_random()
+
+Converting GML script: ${project_dir}\scripts\planet_restart\planet_restart.gml
+Converted builtin - line 6: view_wview[0] = 1408 -> __view_set( e__VW.WView, 0, 1408 )
+Converted builtin - line 13: view_wview[0] = 1408 -> __view_set( e__VW.WView, 0, 1408 )
+Converted builtin - line 19: view_wview[0] = 1408 -> __view_set( e__VW.WView, 0, 1408 )
+Converted builtin - line 7: view_hview[0] = 800 -> __view_set( e__VW.HView, 0, 800 )
+Converted builtin - line 14: view_hview[0] = 800 -> __view_set( e__VW.HView, 0, 800 )
+Converted builtin - line 20: view_hview[0] = 800 -> __view_set( e__VW.HView, 0, 800 )
+Converted description /// @description planet_restart()
+
+Converting GML script: ${project_dir}\scripts\chat_send\chat_send.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description chat_send(text)/// @param text
+
+Converting GML script: ${project_dir}\scripts\chat_add\chat_add.gml
+Converted description /// @description chat_add(message);/// @param message
+
+Converting GML script: ${project_dir}\scripts\session_by_tag\session_by_tag.gml
+Converted description /// @description session_by_tag(tag)/// @param tag
+
+Converting GML script: ${project_dir}\scripts\string_keywords_remove\string_keywords_remove.gml
+Converted description /// @description string_keywords_remove(string)/// @param string
+
+Converting GML script: ${project_dir}\scripts\string_keywords_validate\string_keywords_validate.gml
+Converted description /// @description string_keywords_validate(string)/// @param string
+
+Converting GML script: ${project_dir}\scripts\string_extract\string_extract.gml
+Converted description /// @description  string_extract(str,sep,index)/// @param str
+/// @param sep
+/// @param index
+
+Converting GML script: ${project_dir}\scripts\check_ban\check_ban.gml
+Converted description /// @description check_ban()
+
+Converting GML script: ${project_dir}\scripts\align_grid\align_grid.gml
+Converted description /// @description align_grid(n)/// @param n
+
+Converting GML script: ${project_dir}\scripts\gms_bdb_find_empty\gms_bdb_find_empty.gml
+Converted description /// @description gms_bdb_find_empty()
+
+Converting GML script: ${project_dir}\scripts\gms_bdb_is_open\gms_bdb_is_open.gml
+Converted description /// @description gms_bdb_is_open(handle)/// @param handle
+Converted string - line 4: 'opened' -> "opened"
+
+Converting GML script: ${project_dir}\scripts\string_inappropriate\string_inappropriate.gml
+Converted description /// @description string_inappropriate(string)/// @param string
+
+Converting GML script: ${project_dir}\scripts\draw_string\draw_string.gml
+Converted description /// @description draw_string(x,y,string,color,align,font)/// @param x
+/// @param y
+/// @param string
+/// @param color
+/// @param align
+/// @param font
+
+Converting GML script: ${project_dir}\scripts\show_options\show_options.gml
+Converted description /// @description show_options(name,title,option1,option2,option3)/// @param name
+/// @param title
+/// @param option1
+/// @param option2
+/// @param option3
+
+Converting GML script: ${project_dir}\scripts\draw_text_colored\draw_text_colored.gml
+Converted description /// @description draw_text_colored(x,y,string,alpha)/// @param x
+/// @param y
+/// @param string
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\draw_speech\draw_speech.gml
+Converted description /// @description draw_speech(x,y,string,outline,fill)/// @param x
+/// @param y
+/// @param string
+/// @param outline
+/// @param fill
+
+Converting GML script: ${project_dir}\scripts\draw_flag\draw_flag.gml
+Converted description /// @description draw_flag(x,y,region)/// @param x
+/// @param y
+/// @param region
+
+Converting GML script: ${project_dir}\scripts\show_notification\show_notification.gml
+Converted description /// @description show_notification(icon,text)/// @param icon
+/// @param text
+
+Converting GML script: ${project_dir}\scripts\draw_character\draw_character.gml
+Converted description /// @description draw_character()
+
+Converting GML script: ${project_dir}\scripts\draw_character_invisible\draw_character_invisible.gml
+Converted description /// @description draw_character_invisible()
+
+Converting GML script: ${project_dir}\scripts\draw_character_brown\draw_character_brown.gml
+Converted description /// @description draw_character_brown()
+
+Converting GML script: ${project_dir}\scripts\draw_character_white\draw_character_white.gml
+Converted description /// @description draw_character_brown()
+
+Converting GML script: ${project_dir}\scripts\draw_character_ghost\draw_character_ghost.gml
+Converted description /// @description draw_character_ghost()
+
+Converting GML script: ${project_dir}\scripts\character_load\character_load.gml
+Converted description /// @description character_load()
+
+Converting GML script: ${project_dir}\scripts\draw_text_cover\draw_text_cover.gml
+Converted description /// @description draw_text_cover(x,y,text)/// @param x
+/// @param y
+/// @param text
+
+Converting GML script: ${project_dir}\scripts\friend_find\friend_find.gml
+Converted description /// @description friend_find(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\friend_add\friend_add.gml
+Converted description /// @description friend_add(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\friend_exists\friend_exists.gml
+Converted description /// @description friend_exists(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\safe_ini_player_write\safe_ini_player_write.gml
+Converted description /// @description safe_ini_player_write(section,key,value)/// @param section
+/// @param key
+/// @param value
+
+Converting GML script: ${project_dir}\scripts\safe_ini_player_read_real\safe_ini_player_read_real.gml
+Converted description /// @description safe_ini_player_read_real(section,key)/// @param section
+/// @param key
+
+Converting GML script: ${project_dir}\scripts\safe_ini_player_read_string\safe_ini_player_read_string.gml
+Converted description /// @description safe_ini_player_read_string(section,key)/// @param section
+/// @param key
+
+Converting GML script: ${project_dir}\scripts\safe_ini_player_delete\safe_ini_player_delete.gml
+Converted description /// @description safe_ini_player_delete(section,key)/// @param section
+/// @param key
+
+Converting GML script: ${project_dir}\scripts\safe_ini_player_exists\safe_ini_player_exists.gml
+Converted description /// @description safe_ini_player_exists(section,key)/// @param section
+/// @param key
+
+Converting GML script: ${project_dir}\scripts\string_crypt\string_crypt.gml
+Converted description /// @description string_crypt(string)/// @param string
+
+Converting GML script: ${project_dir}\scripts\on_register\on_register.gml
+Converted description /// @description on_register(callback)/// @param callback
+
+Converting GML script: ${project_dir}\scripts\on_p2p\on_p2p.gml
+Converted description /// @description on_p2p(message_id,sender_id,arguments)/// @param message_id
+/// @param sender_id
+/// @param arguments
+
+Converting GML script: ${project_dir}\scripts\on_command\on_command.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description on_command(text)/// @param text
+Converted string - line 48: 'Sending message to `2' -> "Sending message to `2"
+Converted string - line 48: '`1...' -> "`1..."
+Converted string - line 185: 'Sending warning to `2' -> "Sending warning to `2"
+Converted string - line 185: '`1...' -> "`1..."
+
+Converting GML script: ${project_dir}\scripts\on_login\on_login.gml
+Converted description /// @description on_login(callback)/// @param callback
+
+Converting GML script: ${project_dir}\scripts\on_level\on_level.gml
+Converted description /// @description on_level(max)/// @param max
+
+Converting GML script: ${project_dir}\scripts\on_planet_create\on_planet_create.gml
+Converted description /// @description on_planet_create(handle)/// @param handle
+
+Converting GML script: ${project_dir}\scripts\on_planet_save\on_planet_save.gml
+Converted description /// @description on_planet_save(handle)/// @param handle
+
+Converting GML script: ${project_dir}\scripts\on_planet_load\on_planet_load.gml
+Converted description /// @description on_planet_load(handle)/// @param handle
+
+Converting GML script: ${project_dir}\scripts\on_planet_loaded\on_planet_loaded.gml
+Converted description /// @description on_planet_loaded()
+
+Converting GML script: ${project_dir}\scripts\on_item_draw\on_item_draw.gml
+Converted description /// @description on_item_draw(x,y,name,count)/// @param x
+/// @param y
+/// @param name
+/// @param count
+
+Converting GML script: ${project_dir}\scripts\on_name\on_name.gml
+Converted description /// @description on_name(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\on_slot_select\on_slot_select.gml
+Converted description /// @description on_slot_select()
+
+Converting GML script: ${project_dir}\scripts\on_use\on_use.gml
+Converted description /// @description on_use(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\on_break\on_break.gml
+Converted description /// @description on_break(item,x,y,code)/// @param item
+/// @param x
+/// @param y
+/// @param code
+
+Converting GML script: ${project_dir}\scripts\on_build\on_build.gml
+Converted description /// @description on_build(id)/// @param id
+
+Converting GML script: ${project_dir}\scripts\on_wrench\on_wrench.gml
+Converted description /// @description on_wrench(item,x,y,code)/// @param item
+/// @param x
+/// @param y
+/// @param code
+
+Converting GML script: ${project_dir}\scripts\on_option\on_option.gml
+Converted description /// @description on_option(name,option)/// @param name
+/// @param option
+
+Converting GML script: ${project_dir}\scripts\on_fuse\on_fuse.gml
+Converted description /// @description on_fuse(item1,item2)/// @param item1
+/// @param item2
+
+Converting GML script: ${project_dir}\scripts\inventory_item_get\inventory_item_get.gml
+Converted description /// @description inventory_item_get(name)/// @param name
+
+Converting GML script: ${project_dir}\scripts\inventory_item_set\inventory_item_set.gml
+Converted description /// @description inventory_item_set(name,count)/// @param name
+/// @param count
+
+Converting GML script: ${project_dir}\scripts\inventory_item_find\inventory_item_find.gml
+Converted description /// @description inventory_item_find(name)/// @param name
+
+Converting GML script: ${project_dir}\scripts\block_index\block_index.gml
+Converted description /// @description on_block(name)/// @param name
+
+Converting GML script: ${project_dir}\scripts\item_name\item_name.gml
+Converted description /// @description item_name(id)/// @param id
+
+!!! Font fnt_notification font family Franklin Gothic Medium is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_notification\fnt_notification.gms1.png
+!!! Font fnt_default font family Franklin Gothic Medium is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_default\fnt_default.gms1.png
+!!! Font fnt_medium font family Franklin Gothic Medium is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_medium\fnt_medium.gms1.png
+!!! Font fnt_speech font family Franklin Gothic Medium is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_speech\fnt_speech.gms1.png
+!!! Font fnt_big font family Franklin Gothic Medium is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_big\fnt_big.gms1.png
+Converting GML script: ${project_dir}\objects\obj_server\Create_0.gml
+Converted description /// @description Start
+
+Converting GML script: ${project_dir}\objects\obj_server\Alarm_1.gml
+Converted description /// @description Message failed
+
+Converting GML script: ${project_dir}\objects\obj_server\Alarm_0.gml
+Converted description /// @description Reset breakable position
+
+Converting GML script: ${project_dir}\objects\obj_server\Step_0.gml
+Converted description /// @description Connection handler
+
+Converting GML script: ${project_dir}\objects\obj_server\Other_68.gml
+Converted description /// @description Receive packets from server
+
+Converting GML script: ${project_dir}\objects\obj_server\Other_4.gml
+Converted description /// @description Initialize keyboard
+
+Converting GML script: ${project_dir}\objects\obj_server\Other_3.gml
+Converted description /// @description Secure logout
+
+Converting GML script: ${project_dir}\objects\obj_server\Other_2.gml
+Converted description /// @description Server and global settings
+
+Converting GML script: ${project_dir}\objects\obj_server\Draw_0.gml
+Converted description /// @description Handle server sent scripts
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_3.gml
+Converted description /// @description Reload character
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_1.gml
+Converted description /// @description Upper leg
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Reset speech
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Movements
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_other_player\Create_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_other_player\Step_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_other_player\Mouse_4.gml
+Converted description /// @description Hit other player
+
+Converting GML script: ${project_dir}\objects\obj_other_player\Draw_0.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_notification\Create_0.gml
+Converted description /// @description Variables
+Converted string - line 3: 'Notification' -> "Notification"
+
+Converting GML script: ${project_dir}\objects\obj_notification\Alarm_1.gml
+Converted description /// @description Hide notification
+
+Converting GML script: ${project_dir}\objects\obj_notification\Alarm_0.gml
+Converted description /// @description Show notification
+
+Converting GML script: ${project_dir}\objects\obj_notification\Draw_64.gml
+Converted description /// @description Control
+
+Converting GML script: ${project_dir}\objects\obj_inventory\Create_0.gml
+Converted description /// @description Drag variables
+
+Converting GML script: ${project_dir}\objects\obj_inventory\Alarm_0.gml
+Converted description /// @description Hide info
+
+Converting GML script: ${project_dir}\objects\obj_inventory\Mouse_56.gml
+Converted description /// @description Selection
+
+Converting GML script: ${project_dir}\objects\obj_inventory\Draw_64.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_world\Create_0.gml
+Converted description /// @description Start planet
+
+Converting GML script: ${project_dir}\objects\obj_world\Alarm_1.gml
+Converted description /// @description Show info
+
+Converting GML script: ${project_dir}\objects\obj_world\Alarm_0.gml
+Converted description /// @description Save planet
+
+Converting GML script: ${project_dir}\objects\obj_world\Step_0.gml
+Converted description /// @description Planet access control
+
+Converting GML script: ${project_dir}\objects\obj_world\Mouse_4.gml
+Converted description /// @description Build
+
+Converting GML script: ${project_dir}\objects\obj_world\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_background\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_background\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Draw backgrounds
+
+Converting GML script: ${project_dir}\objects\obj_chat\Create_0.gml
+Converted description /// @description Drag variables
+
+Converting GML script: ${project_dir}\objects\obj_chat\Alarm_0.gml
+Converted description /// @description Send or start typing
+
+Converting GML script: ${project_dir}\objects\obj_chat\Step_0.gml
+Converted description /// @description Keyboard
+
+Converting GML script: ${project_dir}\objects\obj_chat\Draw_64.gml
+Converted description /// @description Draw messages
+
+Converting GML script: ${project_dir}\objects\obj_chat\KeyPress_13.gml
+Converted description /// @description Trigger input
+
+Converting GML script: ${project_dir}\objects\obj_gui\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_gui\Step_0.gml
+Converted builtin - line 32: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 33: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description Control clicks
+Converted builtin - line 32: view_wview[0] = lerp(__view_get( e__VW.WView, 0 ), target_zoom_w, .2) -> __view_set( e__VW.WView, 0, lerp(__view_get( e__VW.WView, 0 ), target_zoom_w, .2) )
+Converted builtin - line 33: view_hview[0] = lerp(__view_get( e__VW.HView, 0 ), target_zoom_h, .2) -> __view_set( e__VW.HView, 0, lerp(__view_get( e__VW.HView, 0 ), target_zoom_h, .2) )
+
+Converting GML script: ${project_dir}\objects\obj_gui\Draw_64.gml
+Converted description /// @description Draw mobile gui
+
+Converting GML script: ${project_dir}\objects\obj_gui\Draw_0.gml
+Converted description /// @description Draw block shadows
+
+Converting GML script: ${project_dir}\objects\obj_options\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_options\Destroy_0.gml
+Converted description /// @description Remove virtual keys
+
+Converting GML script: ${project_dir}\objects\obj_options\Draw_64.gml
+Converted description /// @description Draw options
+
+Converting GML script: ${project_dir}\objects\obj_options\KeyPress_99.gml
+Converted description /// @description Option 3
+
+Converting GML script: ${project_dir}\objects\obj_options\KeyPress_98.gml
+Converted description /// @description Option 2
+
+Converting GML script: ${project_dir}\objects\obj_options\KeyPress_97.gml
+Converted description /// @description Option 1
+
+Converting GML script: ${project_dir}\objects\obj_banner\Other_5.gml
+Converted description /// @description Hide banner
+
+Converting GML script: ${project_dir}\objects\obj_banner\Other_4.gml
+Converted description /// @description Show banner
+
+Converting GML script: ${project_dir}\objects\obj_pan\Step_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -= (window_mouse_get_x() - pan_last_x) -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - ((window_mouse_get_x() - pan_last_x)) )
+Converted builtin - line 6: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 9: view_xview[0] = room_width - view_wview[0] -> __view_set( e__VW.XView, 0, room_width - view_wview[0] )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -= (window_mouse_get_y() - pan_last_y) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - ((window_mouse_get_y() - pan_last_y)) )
+Converted builtin - line 12: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 15: view_yview[0] = room_height - view_hview[0] -> __view_set( e__VW.YView, 0, room_height - view_hview[0] )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 14: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description Panning control
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_pan\Mouse_56.gml
+Converted description /// @description End panning
+
+Converting GML script: ${project_dir}\objects\obj_pan\Mouse_53.gml
+Converted description /// @description Start panning
+
+Converting GML script: ${project_dir}\objects\obj_music\Create_0.gml
+Converted description /// @description Play background music
+
+Converting GML script: ${project_dir}\objects\obj_music\Other_5.gml
+Converted description /// @description Stop background music
+
+Converting GML script: ${project_dir}\objects\obj_trade\Create_0.gml
+Converted description /// @description Virtual keys
+
+Converting GML script: ${project_dir}\objects\obj_trade\Alarm_0.gml
+Converted description /// @description Update the trade
+
+Converting GML script: ${project_dir}\objects\obj_trade\Step_0.gml
+Converted description /// @description Click control
+
+Converting GML script: ${project_dir}\objects\obj_trade\Draw_64.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_delete\KeyPress_39.gml
+Converted description /// @description Move to another
+
+Converting GML script: ${project_dir}\objects\obj_delete\KeyPress_37.gml
+Converted description /// @description Back to previous
+
+Converting GML script: ${project_dir}\objects\obj_button_login\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_button_login\Mouse_11.gml
+Converted description /// @description Hover effect
+
+Converting GML script: ${project_dir}\objects\obj_button_login\Mouse_10.gml
+Converted description /// @description Hover effect
+
+Converting GML script: ${project_dir}\objects\obj_button_login\Mouse_4.gml
+Converted description /// @description Button action
+
+Converting GML script: ${project_dir}\objects\obj_button_login\Draw_0.gml
+Converted description /// @description Draw contents
+
+Converting GML script: ${project_dir}\objects\obj_button_planet\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_button_planet\Step_0.gml
+Converted description /// @description Custom hint
+
+Converting GML script: ${project_dir}\objects\obj_button_planet\Mouse_11.gml
+Converted description /// @description Hover effect
+
+Converting GML script: ${project_dir}\objects\obj_button_planet\Mouse_10.gml
+Converted description /// @description Hover effect
+
+Converting GML script: ${project_dir}\objects\obj_button_planet\Mouse_4.gml
+Converted description /// @description Button action
+
+Converting GML script: ${project_dir}\objects\obj_button_planet\Draw_0.gml
+Converted description /// @description Draw contents
+
+Converting GML script: ${project_dir}\objects\obj_button_fuse\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_button_fuse\Mouse_11.gml
+Converted description /// @description Hover effect
+
+Converting GML script: ${project_dir}\objects\obj_button_fuse\Mouse_10.gml
+Converted description /// @description Hover effect
+
+Converting GML script: ${project_dir}\objects\obj_button_fuse\Mouse_4.gml
+Converted description /// @description Button action
+
+Converting GML script: ${project_dir}\objects\obj_button_fuse\Draw_0.gml
+Converted description /// @description Draw contents
+
+Converting GML script: ${project_dir}\objects\obj_checkbox_no_account\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_checkbox_no_account\Step_0.gml
+Converted description /// @description Hide email textbox
+
+Converting GML script: ${project_dir}\objects\obj_checkbox_no_account\Mouse_7.gml
+Converted description /// @description Change option
+
+Converting GML script: ${project_dir}\objects\obj_checkbox_no_account\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: ${project_dir}\objects\obj_form_fuse\Create_0.gml
+Converted description /// @description Initialize slot control
+
+Converting GML script: ${project_dir}\objects\obj_friends\Draw_0.gml
+Converted description /// @description Draw friends
+
+Converting GML script: ${project_dir}\objects\obj_textbox_username\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_textbox_username\Alarm_0.gml
+Converted description /// @description Save input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_username\Step_0.gml
+Converted description /// @description Input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_username\Mouse_53.gml
+Converted description /// @description Focus
+
+Converting GML script: ${project_dir}\objects\obj_textbox_username\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_textbox_password\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_textbox_password\Alarm_0.gml
+Converted description /// @description Save input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_password\Step_0.gml
+Converted description /// @description Input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_password\Mouse_53.gml
+Converted description /// @description Focus
+
+Converting GML script: ${project_dir}\objects\obj_textbox_password\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_textbox_email\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_textbox_email\Alarm_0.gml
+Converted description /// @description Save input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_email\Step_0.gml
+Converted description /// @description Input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_email\Mouse_53.gml
+Converted description /// @description Focus
+
+Converting GML script: ${project_dir}\objects\obj_textbox_email\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_textbox_planet\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_textbox_planet\Alarm_0.gml
+Converted description /// @description Save input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_planet\Step_0.gml
+Converted description /// @description Input
+
+Converting GML script: ${project_dir}\objects\obj_textbox_planet\Mouse_53.gml
+Converted description /// @description Focus
+
+Converting GML script: ${project_dir}\objects\obj_textbox_planet\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_placed\Create_0.gml
+Converted description /// @description Align
+
+Converting GML script: ${project_dir}\objects\obj_placed\Other_7.gml
+Converted description /// @description Destroy
+
+Converting GML script: ${project_dir}\objects\obj_gem\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_gem\Step_0.gml
+Converted description /// @description Float effect
+
+Converting GML script: ${project_dir}\objects\obj_gem\Collision_5e412317-712c-4bc3-8ab8-9a912f0daf1c.gml
+Converted description /// @description Collect
+
+Converting GML script: ${project_dir}\objects\obj_gem\Collision_7e809d50-d48d-4ca0-99f0-173011e86627.gml
+Converted description /// @description Collect
+
+Converting GML script: ${project_dir}\objects\obj_chicken\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_chicken\Alarm_0.gml
+Converted description /// @description Out of time
+
+Converting GML script: ${project_dir}\objects\obj_chicken\Step_0.gml
+Converted description /// @description Fall down
+
+Converting GML script: ${project_dir}\objects\obj_chicken\Collision_554827c3-50d6-410e-89c3-7b01c07bda41.gml
+Converted description /// @description Collect
+
+Converting GML script: ${project_dir}\objects\obj_chicken\Collision_d25df9e1-25dd-4fb0-8255-8316dd9a6d73.gml
+Error: variable 'message' has same name as a built-in (function, constant or variable), it must be renamed to function correctly
+Converted description /// @description Collect
+
+Converting GML script: ${project_dir}\objects\obj_slot_1\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_slot_1\Mouse_4.gml
+Converted description /// @description Select
+
+Converting GML script: ${project_dir}\objects\obj_slot_1\Draw_0.gml
+Converted description /// @description Draw self and item
+
+Converting GML script: ${project_dir}\objects\obj_slot_2\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_slot_2\Mouse_4.gml
+Converted description /// @description Select
+
+Converting GML script: ${project_dir}\objects\obj_slot_2\Draw_0.gml
+Converted description /// @description Draw self and item
+
+Converting GML script: ${project_dir}\objects\obj_handle\Draw_0.gml
+Converted description /// @description Draw self and result
+
+Converting GML script: ${project_dir}\objects\obj_interstitial\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_interstitial\Alarm_0.gml
+Converted description /// @description Give reward
+
+Converting GML script: ${project_dir}\objects\obj_interstitial\Mouse_4.gml
+Converted description /// @description Show the ad
+
+Converting GML script: ${project_dir}\objects\obj_interstitial\Draw_64.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_planet_lock\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_planet_lock\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_planet_lock\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_dice_block\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_dice_block\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_dice_block\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_access_door\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_access_door\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_access_door\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_golden_block\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_golden_block\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_golden_block\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_platform\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_platform\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_platform\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_checkpoint\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_checkpoint\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_checkpoint\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_race_start_flag\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_race_start_flag\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_race_start_flag\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_race_end_flag\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_race_end_flag\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_race_end_flag\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_shop_buzzsaw\Create_0.gml
+Converted description /// @description Initialize
+
+Converting GML script: ${project_dir}\objects\obj_shop_buzzsaw\Mouse_4.gml
+Converted description /// @description Buy the item
+
+Converting GML script: ${project_dir}\objects\obj_shop_buzzsaw\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_skin_brown\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_skin_brown\Mouse_4.gml
+Converted description /// @description Use skin
+
+Converting GML script: ${project_dir}\objects\obj_skin_brown\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_skin_default\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_skin_default\Mouse_4.gml
+Converted description /// @description Use skin
+
+Converting GML script: ${project_dir}\objects\obj_skin_default\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_skin_white\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_skin_white\Mouse_4.gml
+Converted description /// @description Use skin
+
+Converting GML script: ${project_dir}\objects\obj_skin_white\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_skin_invisible\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_skin_invisible\Mouse_4.gml
+Converted description /// @description Use skin
+
+Converting GML script: ${project_dir}\objects\obj_skin_invisible\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_skin_ghost\Create_0.gml
+Converted description /// @description Variables
+
+Converting GML script: ${project_dir}\objects\obj_skin_ghost\Mouse_4.gml
+Converted description /// @description Use skin
+
+Converting GML script: ${project_dir}\objects\obj_skin_ghost\Draw_0.gml
+Converted description /// @description Draw
+
+Converting GML script: ${project_dir}\objects\obj_block_00\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_00\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qq\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qq\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qq\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qq\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qw\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qw\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qw\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qw\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qe\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qe\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qe\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qe\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qr\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qr\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qr\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qr\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qr\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qt\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qt\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qt\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qt\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qt\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qy\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qy\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qy\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qy\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qy\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qu\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qu\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qu\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qu\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qu\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qi\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qi\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qi\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qi\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qi\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qo\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qo\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qo\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qo\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qo\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qp\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qp\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qp\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qp\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qp\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qa\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qa\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qa\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qa\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qa\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qs\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qs\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qs\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qs\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qs\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qd\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qd\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qd\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qd\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qd\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qf\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qf\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qf\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qf\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qf\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qg\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qg\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qg\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qg\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qg\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qh\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qh\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qh\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qh\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qh\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qj\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qj\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qj\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qj\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qk\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qk\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qk\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qk\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_ql\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_ql\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_ql\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_ql\Mouse_4.gml
+Converted description /// @description Randomize
+
+Converting GML script: ${project_dir}\objects\obj_block_ql\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_ql\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qz\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qz\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qz\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qz\Step_0.gml
+Converted description /// @description Door script
+
+Converting GML script: ${project_dir}\objects\obj_block_qz\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qz\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qx\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qx\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_block_qx\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qx\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qx\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qc\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qc\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qc\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qc\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qv\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qv\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qv\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qv\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qb\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qb\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qb\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qb\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qn\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qn\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qn\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qn\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qm\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_qm\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_qm\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_qm\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wq\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wq\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wq\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wq\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_ww\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_ww\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_ww\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_ww\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_we\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_we\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_we\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_we\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wr\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wr\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wr\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wr\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wt\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wt\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wt\Step_0.gml
+Converted description /// @description Platform script
+
+Converting GML script: ${project_dir}\objects\obj_block_wt\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wt\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wy\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wy\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wy\Collision_f67edeaa-1bd0-4fe3-af68-ffdd75b3847d.gml
+Converted description /// @description Set checkpoint
+
+Converting GML script: ${project_dir}\objects\obj_block_wy\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wy\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wu\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wu\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wu\Collision_f94be266-a1d5-42f8-a09c-68e41cd46b23.gml
+Converted description /// @description Race start flag script
+
+Converting GML script: ${project_dir}\objects\obj_block_wu\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wu\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wi\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wi\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wi\Collision_8f4243cc-2a28-4fe8-9f48-228985c6f036.gml
+Converted description /// @description Race finish flag script
+
+Converting GML script: ${project_dir}\objects\obj_block_wi\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wi\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wo\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wo\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wo\Step_0.gml
+Converted description /// @description Buzzsaw script
+
+Converting GML script: ${project_dir}\objects\obj_block_wo\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wo\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wp\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_block_wp\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_block_wp\Step_0.gml
+Converted description /// @description Buzzsaw script
+
+Converting GML script: ${project_dir}\objects\obj_block_wp\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_block_wp\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_q\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_q\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_q\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_q\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_q\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_w\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_w\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_w\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_w\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_w\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_e\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_e\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_e\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_e\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_e\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_r\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_r\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_r\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_r\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_r\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_t\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_t\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_t\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_t\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_t\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_y\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_y\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_y\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_y\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_y\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_u\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_u\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_u\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_u\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_u\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_i\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_i\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_i\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_i\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_i\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_o\Create_0.gml
+Converted description /// @description Variables / align
+
+Converting GML script: ${project_dir}\objects\obj_wall_o\Destroy_0.gml
+Converted description /// @description Drop gems
+
+Converting GML script: ${project_dir}\objects\obj_wall_o\Alarm_0.gml
+Converted description /// @description Reset break progress
+
+Converting GML script: ${project_dir}\objects\obj_wall_o\Mouse_0.gml
+Converted description /// @description Breaking
+
+Converting GML script: ${project_dir}\objects\obj_wall_o\Draw_0.gml
+Converted description /// @description Draw self and break progress
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description server_chat_bind_view(view_id, up/down (0/1), height);/// @param view_id
+/// @param  up/down (0/1
+
+Converting GML script: GameMaker Server+(All).gml
+Converted builtin - line 19: view_xview[global.__chat_bind - 2] -> __view_get( e__VW.XView, global.__chat_bind - 2 )
+Converted builtin - line 20: view_xview[global.__chat_bind - 2] -> __view_get( e__VW.XView, global.__chat_bind - 2 )
+Converted builtin - line 23: view_yview[global.__chat_bind - 2] -> __view_get( e__VW.YView, global.__chat_bind - 2 )
+Converted builtin - line 24: view_yview[global.__chat_bind - 2] -> __view_get( e__VW.YView, global.__chat_bind - 2 )
+Converted builtin - line 26: view_yview[global.__chat_bind - 2] -> __view_get( e__VW.YView, global.__chat_bind - 2 )
+Converted builtin - line 27: view_yview[global.__chat_bind - 2] -> __view_get( e__VW.YView, global.__chat_bind - 2 )
+Converted builtin - line 20: view_wview[global.__chat_bind - 2] -> __view_get( e__VW.WView, global.__chat_bind - 2 )
+Converted builtin - line 26: view_hview[global.__chat_bind - 2] -> __view_get( e__VW.HView, global.__chat_bind - 2 )
+Converted builtin - line 27: view_hview[global.__chat_bind - 2] -> __view_get( e__VW.HView, global.__chat_bind - 2 )
+Converted string - line 87: "\#" -> "\\#"
+Converted string - line 94: "\#" -> "\\#"
+Converted string - line 115: "\#" -> "\\#"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description server_optimize_variables(sync_sprite, sync_imageindex)/// @param sync_sprite
+/// @param  sync_imageindex
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: "\" -> "\\"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+achievements:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		title:
+		{
+			font: @f_text;
+			horizontal-float: false;
+
+			reached:
+			{
+				color: 0;
+			}
+
+			notreached:
+			{
+				color: @c_grey_text;
+			}
+		}
+
+		reached:
+		{
+			font: @f_text;
+			horizontal-float: true;
+
+			reached:
+			{
+				color: 0;
+			}
+
+			notreached:
+			{
+				color: @c_grey_text;
+			}
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[titlebar.title]
+					style[titlebar.title]>@txt_achievements</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[achievements.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[achievements.container]
+					style[achievements.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+achievements:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		title:
+		{
+			font: @f_text;
+			horizontal-float: false;
+
+			reached:
+			{
+				color: 0;
+			}
+
+			notreached:
+			{
+				color: @c_grey_text;
+			}
+		}
+
+		reached:
+		{
+			font: @f_text;
+			horizontal-float: true;
+
+			reached:
+			{
+				color: 0;
+			}
+
+			notreached:
+			{
+				color: @c_grey_text;
+			}
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[titlebar.title]
+					style[titlebar.title]>@txt_achievements</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[achievements.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[achievements.container]
+					style[achievements.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+friends:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		name:
+		{
+			font: @f_text;
+			horizontal-float: false;
+
+			online:
+			{
+				color: @c_good_color;
+			}
+
+			offline:
+			{
+				color: @c_grey_text;
+			}
+		}
+
+		status:
+		{
+			font: @f_text;
+			horizontal-float: true;
+
+			online:
+			{
+				color: @c_good_color;
+			}
+
+			offline:
+			{
+				color: @c_grey_text;
+			}
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[titlebar.title]
+					style[titlebar.title]>@txt_friends</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[friends.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[friends.container]
+					style[friends.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+friends:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		name:
+		{
+			font: @f_text;
+			horizontal-float: false;
+
+			online:
+			{
+				color: @c_good_color;
+			}
+
+			offline:
+			{
+				color: @c_grey_text;
+			}
+		}
+
+		status:
+		{
+			font: @f_text;
+			horizontal-float: true;
+
+			online:
+			{
+				color: @c_good_color;
+			}
+
+			offline:
+			{
+				color: @c_grey_text;
+			}
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[titlebar.title]
+					style[titlebar.title]>@txt_friends</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[friends.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[friends.container]
+					style[friends.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+highscores:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		name:
+		{
+			font: @f_text;
+			horizontal-float: false;
+		}
+
+		score:
+		{
+			font: @f_text;
+			horizontal-float: true;
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[highscores.title]
+					style[titlebar.title]>Titlebar</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[highscores.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[highscores.container]
+					style[highscores.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+highscores:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		name:
+		{
+			font: @f_text;
+			horizontal-float: false;
+		}
+
+		score:
+		{
+			font: @f_text;
+			horizontal-float: true;
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[highscores.title]
+					style[titlebar.title]>Titlebar</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[highscores.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[highscores.container]
+					style[highscores.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: min;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+		center: 1;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+		horizontal-float: 1;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+		tween-speed: 0.1;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+tos:
+{
+	font: @f_small;
+	text-wrapping: true;
+	width: max;
+	height: 50;
+	margin-bottom: -20;
+		color: @c_text;
+}
+
+bottom:
+{
+	width: max;
+	height: min;
+	vertical-float: true;
+}
+
+button:
+{
+	width: max;
+	height: 52;
+	font: @f_text;
+	color: @c_text;
+	margin: 5;
+}
+
+buttonrow:
+{
+	width: max;
+}
+
+textbox:
+{
+	width: max;
+	font: @f_text;
+	color: @c_text;
+	tip-color: @c_grey_text;
+
+	margin:
+	{
+		margin: 8;
+	}
+
+	show:
+	{
+		height: 40;
+		alpha: 1;
+	}
+
+	hide:
+	{
+		height: 0;
+		alpha: 0;
+	}
+}
+
+guest:
+{
+	width: min;
+	height: max;
+	font: @f_text;
+	color: @c_text;
+
+	show:
+	{
+		width: min;
+		alpha: 1;
+		tween-speed: 0.3;
+		padding-left: 40;
+		padding-right: 40;
+	}
+
+	hide:
+	{
+		width: 0;
+		alpha: 0;
+		padding-left: 0;
+		padding-right: 0;
+		tween-speed: 0.3;
+	}
+}
+
+error:
+{
+	font: @f_small;
+	color: @c_fault_color;
+	text-wrapping: true;
+	width: max;
+
+	error:
+	{
+		alpha: 1;
+		height: min;
+		padding-top: 10;
+		padding-bottom: 10;
+		tween-speed: 0.5;
+	}
+
+	unerror:
+	{
+		alpha: 0;
+		height: 0;
+		tween-speed: 0.5;
+	}
+}
+
+textboxes:
+{
+	height: min;
+	margin-bottom: 5;
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[title]
+					style[titlebar.title]>@txt_login</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[login.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<container 
+					style[textboxes]
+					name[textboxes]>
+					<multielement style[textbox, textbox.margin, backgrounds.normal, border]>
+						<label 
+							style[backgrounds.highlight, guest, guest.show]
+							name[login.guest]
+							special[guest.show] 
+							unspecial[guest.hide]>@txt_guest</label>
+						<textbox 
+							name[login.username]
+							style[textbox, textbox.show] 
+							property[tip-text = @txt_username]/>
+					</multielement>
+					<textbox 
+						name[login.password]
+						style[textbox, backgrounds.normal, textbox.margin, textbox.hide, border]
+						property[tip-text = @txt_password, password = true]
+						special[textbox.hide] 
+						unspecial[textbox.show]/>
+				</container>
+
+				<label 
+					name[login.error] 
+					style[error, error.unerror]
+					error[error.error]
+					unerror[error.unerror]/>
+
+				<canvas style[bottom] name[bottom]>
+					<multielement style[buttonrow]>
+						<button 
+							name[login.login]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_login</button>
+						<button 
+							name[login.register]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_register</button>
+						<button 
+							name[login.close]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_cancel</button>
+					</multielement>
+					<label style[tos]>@txt_tos</label>
+				</canvas>
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: min;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+		center: 1;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+		horizontal-float: 1;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+		tween-speed: 0.1;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+tos:
+{
+	font: @f_small;
+	text-wrapping: true;
+	width: max;
+	height: 50;
+	margin-bottom: -20;
+		color: @c_text;
+}
+
+bottom:
+{
+	width: max;
+	height: min;
+	vertical-float: true;
+}
+
+button:
+{
+	width: max;
+	height: 52;
+	font: @f_text;
+	color: @c_text;
+	margin: 5;
+}
+
+buttonrow:
+{
+	width: max;
+}
+
+textbox:
+{
+	width: max;
+	font: @f_text;
+	color: @c_text;
+	tip-color: @c_grey_text;
+
+	margin:
+	{
+		margin: 8;
+	}
+
+	show:
+	{
+		height: 40;
+		alpha: 1;
+	}
+
+	hide:
+	{
+		height: 0;
+		alpha: 0;
+	}
+}
+
+guest:
+{
+	width: min;
+	height: max;
+	font: @f_text;
+	color: @c_text;
+
+	show:
+	{
+		width: min;
+		alpha: 1;
+		tween-speed: 0.3;
+		padding-left: 40;
+		padding-right: 40;
+	}
+
+	hide:
+	{
+		width: 0;
+		alpha: 0;
+		padding-left: 0;
+		padding-right: 0;
+		tween-speed: 0.3;
+	}
+}
+
+error:
+{
+	font: @f_small;
+	color: @c_fault_color;
+	text-wrapping: true;
+	width: max;
+
+	error:
+	{
+		alpha: 1;
+		height: min;
+		padding-top: 10;
+		padding-bottom: 10;
+		tween-speed: 0.5;
+	}
+
+	unerror:
+	{
+		alpha: 0;
+		height: 0;
+		tween-speed: 0.5;
+	}
+}
+
+textboxes:
+{
+	height: min;
+	margin-bottom: 5;
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[title]
+					style[titlebar.title]>@txt_login</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[login.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<container 
+					style[textboxes]
+					name[textboxes]>
+					<multielement style[textbox, textbox.margin, backgrounds.normal, border]>
+						<label 
+							style[backgrounds.highlight, guest, guest.show]
+							name[login.guest]
+							special[guest.show] 
+							unspecial[guest.hide]>@txt_guest</label>
+						<textbox 
+							name[login.username]
+							style[textbox, textbox.show] 
+							property[tip-text = @txt_username]/>
+					</multielement>
+					<textbox 
+						name[login.password]
+						style[textbox, backgrounds.normal, textbox.margin, textbox.hide, border]
+						property[tip-text = @txt_password, password = true]
+						special[textbox.hide] 
+						unspecial[textbox.show]/>
+				</container>
+
+				<label 
+					name[login.error] 
+					style[error, error.unerror]
+					error[error.error]
+					unerror[error.unerror]/>
+
+				<canvas style[bottom] name[bottom]>
+					<multielement style[buttonrow]>
+						<button 
+							name[login.login]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_login</button>
+						<button 
+							name[login.register]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_register</button>
+						<button 
+							name[login.close]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_cancel</button>
+					</multielement>
+					<label style[tos]>@txt_tos</label>
+				</canvas>
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 4: '<constants>
+</constants>
+<styles>
+overlay:
+{
+}
+
+window:
+{
+	width: min;
+	height: min;
+
+	margin-left: 20;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 3;
+
+	open:
+	{
+		x-offset: 0;
+		tween-speed: 0.5;
+	}
+
+	close:
+	{
+		x-offset: -1;
+		tween-speed: 0.5;
+	}
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_text;
+		width: max;
+		height: max;
+		padding-left: 20;
+		padding-right: 20;
+	}
+
+	closecontainer:
+	{
+		width: min;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: -34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: -20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay]
+		onopen[overlay]
+		onclose[overlay]>
+		
+		<canvas
+			name[window]
+			style[window, backgrounds.normal, border, window.close] 
+			open[window.open] 
+			close[window.close]>
+			<multielement
+				name[titlebar]
+				style[titlebar]>
+				<label
+					name[message.title]
+					style[titlebar.title]>Size43 logged in</label>
+				<canvas
+					style[backgrounds.highlight, titlebar.closecontainer]>
+					<arrow 
+						style[titlebar.closearrow, titlebar.closearrow.unhover]
+						hover[titlebar.closearrow.hover]
+						unhover[titlebar.closearrow.unhover]
+						name[message.close] />
+				</canvas>
+			</multielement>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+}
+
+window:
+{
+	width: min;
+	height: min;
+
+	margin-left: 20;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 3;
+
+	open:
+	{
+		x-offset: 0;
+		tween-speed: 0.5;
+	}
+
+	close:
+	{
+		x-offset: -1;
+		tween-speed: 0.5;
+	}
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_text;
+		width: max;
+		height: max;
+		padding-left: 20;
+		padding-right: 20;
+	}
+
+	closecontainer:
+	{
+		width: min;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: -34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: -20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay]
+		onopen[overlay]
+		onclose[overlay]>
+		
+		<canvas
+			name[window]
+			style[window, backgrounds.normal, border, window.close] 
+			open[window.open] 
+			close[window.close]>
+			<multielement
+				name[titlebar]
+				style[titlebar]>
+				<label
+					name[message.title]
+					style[titlebar.title]>Size43 logged in</label>
+				<canvas
+					style[backgrounds.highlight, titlebar.closecontainer]>
+					<arrow 
+						style[titlebar.closearrow, titlebar.closearrow.unhover]
+						hover[titlebar.closearrow.hover]
+						unhover[titlebar.closearrow.unhover]
+						name[message.close] />
+				</canvas>
+			</multielement>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: min;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+bottom:
+{
+	width: max;
+	height: min;
+	vertical-float: true;
+}
+
+button:
+{
+	width: max;
+	height: 52;
+	font: @f_text;
+	color: @c_text;
+	margin: 5;
+}
+
+buttonrow:
+{
+	width: max;
+}
+
+error:
+{
+	font: @f_small;
+	color: @c_fault_color;
+	text-wrapping: true;
+	width: max;
+
+	error:
+	{
+		alpha: 1;
+		height: min;
+		padding-top: 10;
+		padding-bottom: 10;
+		tween-speed: 0.5;
+	}
+
+	unerror:
+	{
+		alpha: 0;
+		height: 0;
+		tween-speed: 0.5;
+	}
+}
+
+textbox:
+{
+	width: max;
+	font: @f_text;
+	color: @c_text;
+	tip-color: @c_grey_text;
+
+	margin:
+	{
+		margin: 8;
+	}
+
+	show:
+	{
+		height: 40;
+		alpha: 1;
+	}
+}
+
+textboxes:
+{
+	height: min;
+	margin-bottom: 5;
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[title]
+					style[titlebar.title]>@txt_register</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[register.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+
+				<container 
+					style[textboxes]
+					name[textboxes]>
+					<textbox 
+							name[register.username]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+							property[tip-text = @txt_username]/>
+					<textbox 
+							name[register.mail]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+							property[tip-text = @txt_email]/>
+					<textbox 
+							name[register.password]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+							property[tip-text = @txt_password, password = true]/>
+					<textbox 
+							name[register.password-again]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+						property[tip-text = @txt_repeat_password, password = true]/>
+				</container>
+
+				<label 
+					name[register.error] 
+					style[error, error.unerror]
+					error[error.error]
+					unerror[error.unerror]/>
+
+				<canvas style[bottom] name[bottom]>
+					<multielement style[buttonrow]>
+						<button 
+							name[register.register]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_register</button>
+						<button 
+							name[register.close]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_cancel</button>
+					</multielement>
+				</canvas>
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: min;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+bottom:
+{
+	width: max;
+	height: min;
+	vertical-float: true;
+}
+
+button:
+{
+	width: max;
+	height: 52;
+	font: @f_text;
+	color: @c_text;
+	margin: 5;
+}
+
+buttonrow:
+{
+	width: max;
+}
+
+error:
+{
+	font: @f_small;
+	color: @c_fault_color;
+	text-wrapping: true;
+	width: max;
+
+	error:
+	{
+		alpha: 1;
+		height: min;
+		padding-top: 10;
+		padding-bottom: 10;
+		tween-speed: 0.5;
+	}
+
+	unerror:
+	{
+		alpha: 0;
+		height: 0;
+		tween-speed: 0.5;
+	}
+}
+
+textbox:
+{
+	width: max;
+	font: @f_text;
+	color: @c_text;
+	tip-color: @c_grey_text;
+
+	margin:
+	{
+		margin: 8;
+	}
+
+	show:
+	{
+		height: 40;
+		alpha: 1;
+	}
+}
+
+textboxes:
+{
+	height: min;
+	margin-bottom: 5;
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[title]
+					style[titlebar.title]>@txt_register</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[register.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+
+				<container 
+					style[textboxes]
+					name[textboxes]>
+					<textbox 
+							name[register.username]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+							property[tip-text = @txt_username]/>
+					<textbox 
+							name[register.mail]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+							property[tip-text = @txt_email]/>
+					<textbox 
+							name[register.password]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+							property[tip-text = @txt_password, password = true]/>
+					<textbox 
+							name[register.password-again]
+							style[textbox, backgrounds.normal, textbox.margin, textbox.show, border]
+						property[tip-text = @txt_repeat_password, password = true]/>
+				</container>
+
+				<label 
+					name[register.error] 
+					style[error, error.unerror]
+					error[error.error]
+					unerror[error.unerror]/>
+
+				<canvas style[bottom] name[bottom]>
+					<multielement style[buttonrow]>
+						<button 
+							name[register.register]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_register</button>
+						<button 
+							name[register.close]
+							style[button, backgrounds.highlight, border]
+							hover[backgrounds.hover]
+							unhover[backgrounds.highlight]>@txt_cancel</button>
+					</multielement>
+				</canvas>
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+statistics:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		title:
+		{
+			font: @f_text;
+			horizontal-float: false;
+		}
+
+		value:
+		{
+			font: @f_text;
+			horizontal-float: true;
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[titlebar.title]
+					style[titlebar.title]>@txt_statistics</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[statistics.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[statistics.container]
+					style[statistics.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: preferred;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	min-height: 300;
+	preferred-height: 500;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+info:
+{
+	text-wrapping: true;
+	width: max;
+	height: max;
+}
+
+statistics:
+{
+	container:
+	{
+		width: max;
+		height: max;
+	}
+
+	item:
+	{
+		height: min;
+
+		title:
+		{
+			font: @f_text;
+			horizontal-float: false;
+		}
+
+		value:
+		{
+			font: @f_text;
+			horizontal-float: true;
+		}
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[titlebar.title]
+					style[titlebar.title]>@txt_statistics</label>
+				<arrow 
+					style[titlebar.closearrow, titlebar.closearrow.unhover]
+					hover[titlebar.closearrow.hover]
+					unhover[titlebar.closearrow.unhover]
+					name[statistics.close] />
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<scrollbox
+					name[statistics.container]
+					style[statistics.container] />
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 5: '<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: min;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+progressbar:
+{
+	width: max;
+	height: 52;
+	outside:
+	{
+		border-size: 1;
+		border-color: @c_border;
+	}
+
+	inside:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+		width: 0;
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[title]
+					style[titlebar.title]>@txt_updating_game</label>
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<canvas 
+					name[update.progressbox]
+					style[progressbar, progressbar.outside]>
+					<canvas
+						name[update.progress] 
+						style[progressbar, progressbar.inside]/>
+				</canvas>
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+	background: 0;
+
+	open:
+	{
+		background-alpha: 0.5;
+	}
+
+	close:
+	{
+		background-alpha: 0;
+	}
+}
+
+window:
+{
+	width: preferred;
+	height: min;
+
+	min-width: 200;
+	preferred-width: 640;
+
+	center: true;
+
+	drop-shadow: 2;
+	drop-shadow-intensity: 0.04;
+	drop-shadow-spread: 10;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+
+	extrawindow:
+	{
+		y-offset: -1;
+	}
+
+	unextrawindow:
+	{
+		y-offset: 0;
+	}
+
+	error:
+	{
+		x-offset: 0.005;
+		tween-type: shake;
+		tween-speed: 1;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 20;	
+}
+
+titlebar:
+{
+	width: max;
+	height: 52;
+
+	title:
+	{
+		color: @c_text;
+		font: @f_title;
+		width: max;
+		height: max;
+	}
+
+	closearrow:
+	{
+		height: max;
+		color: @c_text;
+		width: 32;
+
+		hover:
+		{
+			arrow-size: 15;
+			arrow-length: 34;
+			alpha: 1.0;
+			tween-speed: 0.2;
+		}
+
+		unhover:
+		{
+			arrow-size: 10;
+			arrow-length: 20;
+			alpha: 0.5;
+			tween-speed: 0.2;
+		}
+	}
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+progressbar:
+{
+	width: max;
+	height: 52;
+	outside:
+	{
+		border-size: 1;
+		border-color: @c_border;
+	}
+
+	inside:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+		width: 0;
+	}
+}
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay, overlay.close]
+		open[overlay.open]
+		close[overlay.close]
+		extrawindow[overlay.close]
+		unextrawindow[overlay.open]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.normal, border] 
+			open[window.open] 
+			close[window.close]
+			extrawindow[window.extrawindow] 
+			unextrawindow[window.unextrawindow]
+			error[window.error]>
+			<multielement
+				name[titlebar]
+				style[titlebar, backgrounds.highlight]>
+				<label
+					name[title]
+					style[titlebar.title]>@txt_updating_game</label>
+			</multielement>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+				<canvas 
+					name[update.progressbox]
+					style[progressbar, progressbar.outside]>
+					<canvas
+						name[update.progress] 
+						style[progressbar, progressbar.inside]/>
+				</canvas>
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 3: '<constants>
+</constants>
+<styles>
+overlay:
+{
+}
+
+window:
+{
+	width: max;
+	height: min;
+
+	vertical-float: true;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 5;	
+	overlapping: true;
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+keyrow:
+{
+	width: max;
+}
+
+keyboard:
+{
+	key:
+	{
+		width: max;
+		height: 52;
+		font: @f_title;
+		color: @c_text;
+		margin: 2;
+
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+		tween-speed: 0.3;
+
+		hover:
+		{
+			background-1: @c_buttonhover1;
+			background-2: @c_buttonhover1;
+			background-3: @c_buttonhover2;
+			background-4: @c_buttonhover2;
+			tween-speed: 0.05;
+		}
+	}
+
+	x-offset: 0;
+	shiftleft:
+	{
+		x-offset: -1;
+		alpha: 0;
+		tween-speed: 0.5;
+	}
+
+	shift0:
+	{
+		x-offset: 0;
+		alpha: 1;
+		tween-speed: 0.5;
+	}
+
+	shiftright:
+	{
+		x-offset: 1;
+		alpha: 0;
+		tween-speed: 0.5;
+	}
+
+	normalkeys:
+	{
+		width: max;
+		height: max;
+		x-offset: 0;
+	}
+
+	numkeys:
+	{
+		width: max;
+		height: max;
+		x-offset: 1;
+		alpha: 0;
+	}
+
+	extrakeys:
+	{
+		width: max;
+		height: max;
+		x-offset: 1;
+		alpha: 0;
+		tween-affects-position: true;
+	}
+
+	close:
+	{
+		height: 52;
+		color: @c_text;
+		alpha: 0.5;
+		margin-right: 5;
+		arrow-size: 10;
+		arrow-length: 20;
+		width: max;
+		height: 52;
+
+		hover:
+		{
+			alpha: 1;
+			arrow-length: 40;
+			arrow-size: 20;
+		}
+
+		unhover:
+		{
+			alpha: 0.5;
+			arrow-length: 20;
+			arrow-size: 10;
+		}
+	}
+}
+
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay]
+		open[overlay]
+		close[overlay]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.highlight, border] 
+			open[window.open] 
+			close[window.close]>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+
+				<container name[normal-keys] style[keyboard.normalkeys] extrawindow[keyboard.shiftleft] unextrawindow[keyboard.shift0]>
+					<multielement style[keyrow]>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>Q</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>W</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>E</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>R</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>T</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>Y</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>U</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>I</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>O</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>P</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.numkey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>0..9</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>A</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>S</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>D</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>F</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>G</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>H</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>J</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>K</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>L</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.shiftkey] style[keyboard.key] onspecial[keyboard.key.hover] onunspecial[keyboard.key]>Shift</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>Z</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>X</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>C</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>V</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>B</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>N</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>M</button>
+						<button name[keyboard.backspacekey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<-</button>
+						<arrow name[keyboard.closekey] style[keyboard.key, keyboard.close] hover[keyboard.close.hover] unhover[keyboard.close.unhover] />
+					</multielement>
+				</container>
+					
+				<container name[num-keys] style[keyboard.numkeys] extrawindow[keyboard.shift0] unextrawindow[keyboard.shiftright] onspecial[keyboard.shiftleft] onunspecial[keyboard.shift0]>
+					<multielement style[keyrow]>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>0</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>1</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>2</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>3</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>4</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>5</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>6</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>7</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>8</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>9</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.normalkey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>a..z</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>-</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\/</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>:</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>;</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>(</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>)</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>$</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>&</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\@</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.extrakey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\#+=</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>.</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\,</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>?</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>!</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>' -> "<constants>
+</constants>
+<styles>
+overlay:
+{
+}
+
+window:
+{
+	width: max;
+	height: min;
+
+	vertical-float: true;
+
+	open:
+	{
+		y-offset: 0;
+		tween-speed: 0.3;
+	}
+
+	close:
+	{
+		y-offset: 1;
+		tween-speed: 0.3;
+	}
+}
+
+contents:
+{
+	width: max;
+	height: max;
+	padding: 5;	
+	overlapping: true;
+}
+
+backgrounds:
+{
+	normal:
+	{
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+	}
+
+	highlight:
+	{
+		background-1: @c_button1;
+		background-2: @c_button1;
+		background-3: @c_button2;
+		background-4: @c_button2;
+	}
+
+	hover:
+	{
+		background-1: @c_buttonhover1;
+		background-2: @c_buttonhover1;
+		background-3: @c_buttonhover2;
+		background-4: @c_buttonhover2;
+	}
+}
+
+border:
+{
+	border-size: 1;
+	border-color: @c_border;
+}
+
+keyrow:
+{
+	width: max;
+}
+
+keyboard:
+{
+	key:
+	{
+		width: max;
+		height: 52;
+		font: @f_title;
+		color: @c_text;
+		margin: 2;
+
+		background-1: @c_background1;
+		background-2: @c_background1;
+		background-3: @c_background2;
+		background-4: @c_background2;
+		tween-speed: 0.3;
+
+		hover:
+		{
+			background-1: @c_buttonhover1;
+			background-2: @c_buttonhover1;
+			background-3: @c_buttonhover2;
+			background-4: @c_buttonhover2;
+			tween-speed: 0.05;
+		}
+	}
+
+	x-offset: 0;
+	shiftleft:
+	{
+		x-offset: -1;
+		alpha: 0;
+		tween-speed: 0.5;
+	}
+
+	shift0:
+	{
+		x-offset: 0;
+		alpha: 1;
+		tween-speed: 0.5;
+	}
+
+	shiftright:
+	{
+		x-offset: 1;
+		alpha: 0;
+		tween-speed: 0.5;
+	}
+
+	normalkeys:
+	{
+		width: max;
+		height: max;
+		x-offset: 0;
+	}
+
+	numkeys:
+	{
+		width: max;
+		height: max;
+		x-offset: 1;
+		alpha: 0;
+	}
+
+	extrakeys:
+	{
+		width: max;
+		height: max;
+		x-offset: 1;
+		alpha: 0;
+		tween-affects-position: true;
+	}
+
+	close:
+	{
+		height: 52;
+		color: @c_text;
+		alpha: 0.5;
+		margin-right: 5;
+		arrow-size: 10;
+		arrow-length: 20;
+		width: max;
+		height: 52;
+
+		hover:
+		{
+			alpha: 1;
+			arrow-length: 40;
+			arrow-size: 20;
+		}
+
+		unhover:
+		{
+			alpha: 0.5;
+			arrow-length: 20;
+			arrow-size: 10;
+		}
+	}
+}
+
+</styles>
+<layout>
+	<canvas
+		name[overlay]
+		style[overlay]
+		open[overlay]
+		close[overlay]>
+		
+		<canvas
+			name[window]
+			style[window, window.close, backgrounds.highlight, border] 
+			open[window.open] 
+			close[window.close]>
+
+			<canvas 
+				style[contents]
+				name[contents]>
+
+				<container name[normal-keys] style[keyboard.normalkeys] extrawindow[keyboard.shiftleft] unextrawindow[keyboard.shift0]>
+					<multielement style[keyrow]>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>Q</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>W</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>E</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>R</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>T</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>Y</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>U</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>I</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>O</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>P</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.numkey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>0..9</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>A</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>S</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>D</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>F</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>G</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>H</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>J</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>K</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>L</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.shiftkey] style[keyboard.key] onspecial[keyboard.key.hover] onunspecial[keyboard.key]>Shift</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>Z</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>X</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>C</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>V</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>B</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>N</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>M</button>
+						<button name[keyboard.backspacekey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<-</button>
+						<arrow name[keyboard.closekey] style[keyboard.key, keyboard.close] hover[keyboard.close.hover] unhover[keyboard.close.unhover] />
+					</multielement>
+				</container>
+					
+				<container name[num-keys] style[keyboard.numkeys] extrawindow[keyboard.shift0] unextrawindow[keyboard.shiftright] onspecial[keyboard.shiftleft] onunspecial[keyboard.shift0]>
+					<multielement style[keyrow]>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>0</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>1</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>2</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>3</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>4</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>5</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>6</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>7</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>8</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>9</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.normalkey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>a..z</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>-</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\/</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>:</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>;</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>(</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>)</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>$</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>&</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\@</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.extrakey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\#+=</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>.</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\,</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>?</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>!</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>"
+Converted string - line 531: '</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>"</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>_</button>
+						<button name[keyboard.backspacekey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<-</button>
+						<arrow name[keyboard.closekey] style[keyboard.key, keyboard.close] hover[keyboard.close.hover] unhover[keyboard.close.unhover] />
+					</multielement>
+				</container>
+					
+				<container name[extra-keys] style[keyboard.extrakeys] onspecial[keyboard.shift0] onunspecial[keyboard.shiftright]>
+					<multielement style[keyrow]>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\[</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\]</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>{</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>}</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>#</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>%</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>^</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>*</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>+</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>=</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.numkey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>0..9</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\\</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>|</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>~</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\></button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.backspacekey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<-</button>
+						<arrow name[keyboard.closekey] style[keyboard.key, keyboard.close] hover[keyboard.close.hover] unhover[keyboard.close.unhover] />
+					</multielement>
+				</container>
+
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>' -> "</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>"+"\""+@"</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>_</button>
+						<button name[keyboard.backspacekey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<-</button>
+						<arrow name[keyboard.closekey] style[keyboard.key, keyboard.close] hover[keyboard.close.hover] unhover[keyboard.close.unhover] />
+					</multielement>
+				</container>
+					
+				<container name[extra-keys] style[keyboard.extrakeys] onspecial[keyboard.shift0] onunspecial[keyboard.shiftright]>
+					<multielement style[keyrow]>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\[</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\]</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>{</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>}</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>#</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>%</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>^</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>*</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>+</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>=</button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.numkey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>0..9</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\\</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>|</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>~</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<</button>
+						<button name[keyboard.key] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\></button>
+					</multielement>
+
+					<multielement style[keyrow]>
+						<button name[keyboard.backspacekey] style[keyboard.key] hover[keyboard.key.hover] unhover[keyboard.key]>\<-</button>
+						<arrow name[keyboard.closekey] style[keyboard.key, keyboard.close] hover[keyboard.close.hover] unhover[keyboard.close.unhover] />
+					</multielement>
+				</container>
+
+			</canvas>
+		</canvas>
+	</canvas>
+</layout>"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 5: 'a' -> "a"
+Converted string - line 5: 'z' -> "z"
+Converted string - line 5: 'A' -> "A"
+Converted string - line 5: 'Z' -> "Z"
+Converted string - line 5: '0' -> "0"
+Converted string - line 5: '9' -> "9"
+Converted string - line 5: '_' -> "_"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 7: 'update.progressbox' -> "update.progressbox"
+Converted string - line 10: 'update.progress' -> "update.progress"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 239: 'tween' -> "tween"
+Converted string - line 239: 'tween_from' -> "tween_from"
+Converted string - line 239: 'tween_to' -> "tween_to"
+Converted string - line 274: 'tween' -> "tween"
+Converted string - line 274: 'tween_from' -> "tween_from"
+Converted string - line 274: 'tween_to' -> "tween_to"
+Converted string - line 305: 'tween' -> "tween"
+Converted string - line 305: 'tween_from' -> "tween_from"
+Converted string - line 305: 'tween_to' -> "tween_to"
+Converted string - line 341: 'tween' -> "tween"
+Converted string - line 341: 'tween_from' -> "tween_from"
+Converted string - line 341: 'tween_to' -> "tween_to"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 24: '"' -> "\""
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 42: '"' -> "\""
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 41: "\t" -> "\\t"
+Converted string - line 157: "\" -> "\\"
+Converted string - line 157: '@' -> "@"
+Converted string - line 184: "\" -> "\\"
+Converted string - line 187: "\" -> "\\"
+Converted string - line 224: "\t" -> "\\t"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description wle_set_renderwh(0: target, 1: element_width, 2: element_height, 3: content-w, 4: content-h)/// @param 0: target
+/// @param  1: element_width
+/// @param  2: element_height
+/// @param  3: content-w
+/// @param  4: content-h
+
+Converting GML script: GameMaker Server+(All).gml
+Converted builtin - line 1: background_visible -> __background_get( e__BG.Visible, 0 )
+Converted builtin - line 1: background_foreground -> __background_get( e__BG.Foreground, 0 )
+Converted builtin - line 1: background_index -> __background_get( e__BG.Index, 0 )
+Converted builtin - line 1: background_x -> __background_get( e__BG.X, 0 )
+Converted builtin - line 1: background_y -> __background_get( e__BG.Y, 0 )
+Converted builtin - line 1: background_width -> __background_get( e__BG.Width, 0 )
+Converted builtin - line 1: background_height -> __background_get( e__BG.Height, 0 )
+Converted builtin - line 1: background_htiled -> __background_get( e__BG.HTiled, 0 )
+Converted builtin - line 1: background_vtiled -> __background_get( e__BG.VTiled, 0 )
+Converted builtin - line 1: background_xscale -> __background_get( e__BG.XScale, 0 )
+Converted builtin - line 1: background_yscale -> __background_get( e__BG.YScale, 0 )
+Converted builtin - line 1: background_hspeed -> __background_get( e__BG.HSpeed, 0 )
+Converted builtin - line 1: background_vspeed -> __background_get( e__BG.VSpeed, 0 )
+Converted builtin - line 1: background_blend -> __background_get( e__BG.Blend, 0 )
+Converted builtin - line 1: background_alpha -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 1: background_color -> __background_get_colour( )
+Converted builtin - line 1: background_showcolor -> __background_get_showcolour( )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 1: view_angle -> __view_get( e__VW.Angle, 0 )
+Converted builtin - line 1: view_hborder -> __view_get( e__VW.HBorder, 0 )
+Converted builtin - line 1: view_vborder -> __view_get( e__VW.VBorder, 0 )
+Converted builtin - line 1: view_hspeed -> __view_get( e__VW.HSpeed, 0 )
+Converted builtin - line 1: view_vspeed -> __view_get( e__VW.VSpeed, 0 )
+Converted builtin - line 1: view_object -> __view_get( e__VW.Object, 0 )
+Converted builtin - line 1: view_visible -> __view_get( e__VW.Visible, 0 )
+Converted builtin - line 1: view_xport -> __view_get( e__VW.XPort, 0 )
+Converted builtin - line 1: view_yport -> __view_get( e__VW.YPort, 0 )
+Converted builtin - line 1: view_wport -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 1: view_hport -> __view_get( e__VW.HPort, 0 )
+Converted string - line 1: 'timeline_index' -> "timeline_index"
+Converted string - line 1: 'timeline_position' -> "timeline_position"
+Converted string - line 1: 'timeline_speed' -> "timeline_speed"
+Converted string - line 1: 'room' -> "room"
+Converted string - line 1: 'room_first' -> "room_first"
+Converted string - line 1: 'room_last' -> "room_last"
+Converted string - line 1: 'room_width' -> "room_width"
+Converted string - line 1: 'room_height' -> "room_height"
+Converted string - line 1: 'room_caption' -> "room_caption"
+Converted string - line 1: 'room_persistent' -> "room_persistent"
+Converted string - line 1: 'score' -> "score"
+Converted string - line 1: 'lives' -> "lives"
+Converted string - line 1: 'health' -> "health"
+Converted string - line 1: 'show_score' -> "show_score"
+Converted string - line 1: 'show_lives' -> "show_lives"
+Converted string - line 1: 'show_health' -> "show_health"
+Converted string - line 1: 'caption_score' -> "caption_score"
+Converted string - line 1: 'caption_lives' -> "caption_lives"
+Converted string - line 1: 'caption_health' -> "caption_health"
+Converted string - line 1: 'event_type' -> "event_type"
+Converted string - line 1: 'event_number' -> "event_number"
+Converted string - line 1: 'event_object' -> "event_object"
+Converted string - line 1: 'event_action' -> "event_action"
+Converted string - line 1: 'error_occurred' -> "error_occurred"
+Converted string - line 1: 'error_last' -> "error_last"
+Converted string - line 1: 'keyboard_key' -> "keyboard_key"
+Converted string - line 1: 'keyboard_lastkey' -> "keyboard_lastkey"
+Converted string - line 1: 'keyboard_lastchar' -> "keyboard_lastchar"
+Converted string - line 1: 'keyboard_string' -> "keyboard_string"
+Converted string - line 1: 'mouse_x' -> "mouse_x"
+Converted string - line 1: 'mouse_y' -> "mouse_y"
+Converted string - line 1: 'mouse_button' -> "mouse_button"
+Converted string - line 1: 'mouse_lastbutton' -> "mouse_lastbutton"
+Converted string - line 1: 'cursor_sprite' -> "cursor_sprite"
+Converted string - line 1: 'visible' -> "visible"
+Converted string - line 1: 'sprite_index' -> "sprite_index"
+Converted string - line 1: 'sprite_width' -> "sprite_width"
+Converted string - line 1: 'sprite_height' -> "sprite_height"
+Converted string - line 1: 'sprite_xoffset' -> "sprite_xoffset"
+Converted string - line 1: 'sprite_yoffset' -> "sprite_yoffset"
+Converted string - line 1: 'image_number' -> "image_number"
+Converted string - line 1: 'image_index' -> "image_index"
+Converted string - line 1: 'image_speed' -> "image_speed"
+Converted string - line 1: 'depth' -> "depth"
+Converted string - line 1: 'image_xscale' -> "image_xscale"
+Converted string - line 1: 'image_yscale' -> "image_yscale"
+Converted string - line 1: 'image_angle' -> "image_angle"
+Converted string - line 1: 'image_alpha' -> "image_alpha"
+Converted string - line 1: 'image_blend' -> "image_blend"
+Converted string - line 1: 'bbox_left' -> "bbox_left"
+Converted string - line 1: 'bbox_right' -> "bbox_right"
+Converted string - line 1: 'bbox_top' -> "bbox_top"
+Converted string - line 1: 'bbox_bottom' -> "bbox_bottom"
+Converted string - line 1: 'background_color' -> "background_color"
+Converted string - line 1: 'background_showcolor' -> "background_showcolor"
+Converted string - line 1: 'background_visible' -> "background_visible"
+Converted string - line 1: 'background_foreground' -> "background_foreground"
+Converted string - line 1: 'background_index' -> "background_index"
+Converted string - line 1: 'background_x' -> "background_x"
+Converted string - line 1: 'background_y' -> "background_y"
+Converted string - line 1: 'background_width' -> "background_width"
+Converted string - line 1: 'background_height' -> "background_height"
+Converted string - line 1: 'background_htiled' -> "background_htiled"
+Converted string - line 1: 'background_vtiled' -> "background_vtiled"
+Converted string - line 1: 'background_xscale' -> "background_xscale"
+Converted string - line 1: 'background_yscale' -> "background_yscale"
+Converted string - line 1: 'background_hspeed' -> "background_hspeed"
+Converted string - line 1: 'background_vspeed' -> "background_vspeed"
+Converted string - line 1: 'background_blend' -> "background_blend"
+Converted string - line 1: 'background_alpha' -> "background_alpha"
+Converted string - line 1: 'view_enabled' -> "view_enabled"
+Converted string - line 1: 'view_current' -> "view_current"
+Converted string - line 1: 'view_visible' -> "view_visible"
+Converted string - line 1: 'view_xview' -> "view_xview"
+Converted string - line 1: 'view_yview' -> "view_yview"
+Converted string - line 1: 'view_wview' -> "view_wview"
+Converted string - line 1: 'view_hview' -> "view_hview"
+Converted string - line 1: 'view_xport' -> "view_xport"
+Converted string - line 1: 'view_yport' -> "view_yport"
+Converted string - line 1: 'view_wport' -> "view_wport"
+Converted string - line 1: 'view_hport' -> "view_hport"
+Converted string - line 1: 'view_angle' -> "view_angle"
+Converted string - line 1: 'view_hborder' -> "view_hborder"
+Converted string - line 1: 'view_vborder' -> "view_vborder"
+Converted string - line 1: 'view_hspeed' -> "view_hspeed"
+Converted string - line 1: 'view_vspeed' -> "view_vspeed"
+Converted string - line 1: 'view_object' -> "view_object"
+Converted string - line 1: 'working_directory' -> "working_directory"
+Converted string - line 1: 'temp_directory' -> "temp_directory"
+Converted string - line 1: 'program_directory' -> "program_directory"
+Converted string - line 1: 'game_id' -> "game_id"
+Converted string - line 1: 'secure_mode' -> "secure_mode"
+Converted string - line 1: 'x' -> "x"
+Converted string - line 1: 'y' -> "y"
+Converted string - line 1: 'async_load' -> "async_load"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 1: 'timeline_index' -> "timeline_index"
+Converted string - line 1: 'timeline_position' -> "timeline_position"
+Converted string - line 1: 'timeline_speed' -> "timeline_speed"
+Converted string - line 1: 'visible' -> "visible"
+Converted string - line 1: 'sprite_index' -> "sprite_index"
+Converted string - line 1: 'image_index' -> "image_index"
+Converted string - line 1: 'image_speed' -> "image_speed"
+Converted string - line 1: 'depth' -> "depth"
+Converted string - line 1: 'image_xscale' -> "image_xscale"
+Converted string - line 1: 'image_yscale' -> "image_yscale"
+Converted string - line 1: 'image_angle' -> "image_angle"
+Converted string - line 1: 'image_alpha' -> "image_alpha"
+Converted string - line 1: 'image_blend' -> "image_blend"
+Converted string - line 1: 'x' -> "x"
+Converted string - line 1: 'y' -> "y"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XServer_step(room_id)/// @param room_id
+Converted string - line 801: 'opened' -> "opened"
+Converted string - line 806: 'buffer' -> "buffer"
+Converted string - line 807: 'buffer' -> "buffer"
+Converted string - line 808: 'buffer' -> "buffer"
+Converted string - line 813: 'callback_open' -> "callback_open"
+Converted string - line 819: 'locked' -> "locked"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XServer_writestring(buffer, str)/// @param buffer
+/// @param  str
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XServer_readstring(buffer);/// @param buffer
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XServer_writevariable(buffer, cacheID, variable, value, precision)/// @param buffer
+/// @param  cacheID
+/// @param  variable
+/// @param  value
+/// @param  precision
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XServer_write4d(_flags, x, y, speed, direction)/// @param _flags
+/// @param  x
+/// @param  y
+/// @param  speed
+/// @param  direction
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_cache_variable_write(buffer, cacheID, name, send_type)/// @param buffer
+/// @param  cacheID
+/// @param  name
+/// @param  send_type
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_cache_player_read(buffer)/// @param buffer
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_cache_player_write(buffer, playerID)/// @param buffer
+/// @param  playerID
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description gms_bdb_open(bdb_id, exclusive_lock, callback);/// @param bdb_id
+/// @param  exclusive_lock
+/// @param  callback
+Converted string - line 8: 'callback_open' -> "callback_open"
+Converted string - line 9: 'buffer' -> "buffer"
+Converted string - line 10: 'open' -> "open"
+Converted string - line 11: 'locked' -> "locked"
+Converted string - line 16: 'open' -> "open"
+Converted string - line 21: 'callback_open' -> "callback_open"
+Converted string - line 23: 'change_min' -> "change_min"
+Converted string - line 24: 'change_max' -> "change_max"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'opened' -> "opened"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'change_min' -> "change_min"
+Converted string - line 2: 'change_max' -> "change_max"
+Converted string - line 16: 'buffer' -> "buffer"
+Converted string - line 20: 'locked' -> "locked"
+Converted string - line 28: 'opened' -> "opened"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+Converted string - line 9: 'change_min' -> "change_min"
+Converted string - line 9: 'change_min' -> "change_min"
+Converted string - line 11: 'change_max' -> "change_max"
+Converted string - line 11: 'change_max' -> "change_max"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted string - line 2: 'buffer' -> "buffer"
+Converted string - line 20: 'change_min' -> "change_min"
+Converted string - line 20: 'change_min' -> "change_min"
+Converted string - line 22: 'change_max' -> "change_max"
+Converted string - line 22: 'change_max' -> "change_max"
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_ve_getBestWayToSend(value, minPrecision)/// @param value
+/// @param  minPrecision
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_ve_readValue(buffer, sendType)/// @param buffer
+/// @param  sendType
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_ve_writeValue(buffer, variable, precision, sendType)/// @param buffer
+/// @param  variable
+/// @param  precision
+/// @param  sendType
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_vs_getRepresentation(factor, numBytes, value)/// @param factor
+/// @param  numBytes
+/// @param  value
+
+Converting GML script: GameMaker Server+(All).gml
+Converted description /// @description XGms_ve_getOriginalValue(factor, numBytes, representation)/// @param factor
+/// @param  numBytes
+/// @param  representation
+
+Converting GML script: gmkb_common.gml
+Converted string - line 68: "\#" -> "\\#"
+
+Missing audiogroup for sound: 'snd_background' - setting to default audio group
+Missing audiogroup for sound: 'snd_block_destroy' - setting to default audio group
+Missing audiogroup for sound: 'snd_block_place' - setting to default audio group
+Missing audiogroup for sound: 'snd_complete' - setting to default audio group
+Missing audiogroup for sound: 'snd_event' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'background/background_replace.gml'
+Added compatibility script 'background/__background_get.gml'
+Added compatibility script 'background/__background_get_colour.gml'
+Added compatibility script 'background/__background_get_colour_element.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_get_showcolour.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_exists.gml'
+Added compatibility script 'sound/sound_get_name.gml'
+Added compatibility script 'sound/sound_loop.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'sound/sound_stop.gml'
+Added compatibility script 'sound/sound_stop_all.gml'
+Added compatibility script 'texture/texture_set_interpolation.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
