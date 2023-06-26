@@ -5,12 +5,12 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
+| Status | Buildable          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| GameMaker Enterprise Subscriptions   | :white_check_mark: |
+| GameMaker Indie Subscriptions  | :white_check_mark:    |
+| GameMaker Creator Subscriptions   | :white_check_mark: |
+| GameMaker Free Version   | :x:                |
 
 ## Reporting a Vulnerability
 
